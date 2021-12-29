@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mifraburneo
-- 👀 I’m looking to become a coder and data scientist.
+- 👀 I’m looking to become a professional coder and data scientist.
 - 🌱 I’m currently learning Data Science and doing the CS50x course.
 - 💞️ I’m looking to collaborate on whatever I can learn something :)
 - 📫 Visit www.mifraburneo.com to know more about me.
