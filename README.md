@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mifraburneo
-- 👀 I’m looking to become a professional coder and data scientist.
-- 🌱 I’m currently learning Data Science and doing the CS50x course.
-- 💞️ I’m looking to collaborate on whatever I can learn something :)
+- 👀 I’m looking forward to become a DevOps Engineer.
+- 🌱 I’m currently working on a System Engineer environmnet with lots of Ansible, Python and Bash scripting.
+- 💞️ I’m hoping to collaborate on whatever I can learn something :)
 - 📫 Visit www.mifraburneo.com to know more about me.
 
 <!---
